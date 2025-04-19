@@ -2,9 +2,6 @@
 
 This repository provides the implementation for predictive modeling experiments on two clinical datasets — **CRADLE** and **MIMIC-III** — using various machine learning and graph-based techniques.
 
-> **Publication Pending**  
-> 📄 If you use this code, please consider citing our work (link to paper coming soon).
-
 ---
 
 ## 🚑 Datasets
