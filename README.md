@@ -1,9 +1,6 @@
-# Clinical Graph Learning for Predictive Modeling
+# Clinical Machine Learning benchmark for Predictive Modeling
 
 This repository provides the implementation for predictive modeling experiments on two clinical datasets — **CRADLE** and **MIMIC-III** — using various machine learning and graph-based techniques.
-
-> **Publication Pending**  
-> 📄 If you use this code, please consider citing our work (link to paper coming soon).
 
 ---
 
@@ -129,5 +126,6 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 ---
 
 ## 📬 Contact
+dongjun.yang@emory.edu
 
 For questions, please reach out to **[Your Name]** at **[your.email@example.com]**
